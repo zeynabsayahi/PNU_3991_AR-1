@@ -56,7 +56,7 @@
     <th>شنبه</th>
   </tr>
    <tr>
-    <th></th>
+    <th>قانون اساسی</th>
     <th></th>
     <th></th>
     <th></th>
@@ -66,7 +66,7 @@
   </tr>
    <tr>
      <th></th>
-     <th></th>
+     <th>روش پژوهش</th>
      <th></th>
      <th></th>
      <th></th>
