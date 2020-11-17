@@ -71,7 +71,7 @@
      <th></th>
      <th></th>
      <th></th>   
-    <th></th>
+    <th>دو شنبه</th>
   </tr>
    <tr>
     <th></th>
