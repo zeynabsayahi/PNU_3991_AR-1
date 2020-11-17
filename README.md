@@ -1,14 +1,14 @@
 # PNU_3991_AR
 ---------
-### میرمحمد کمالی
+### بهناز محمدی
  
 ---
 - [github]()
 - [PNU_3991_AR]()
 - [resume]()
 - [SOP]() 
-- [javascript Certificate](js.pdf)
-- [jlord patchwork](jlord.png)
+- [javascript Certificate]()
+- [jlord patchwork]()
   
 ------------------
 
