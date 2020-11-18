@@ -5,8 +5,8 @@
 ---
 - [github]()
 - [PNU_3991_AR]()
-- [resume]()
-- [SOP]() 
+- [resume](https://b-mohammadi77.github.io/)
+- [SOP](https://b-mohammadi77.github.io/SOP/) 
 - [javascript Certificate]()
 - [jlord patchwork]()
   
