@@ -8,7 +8,7 @@
 - [resume](https://b-mohammadi77.github.io/)
 - [SOP](https://b-mohammadi77.github.io/SOP/) 
 - [javascript Certificate](js.jpg)
-- [jlord patchwork](pictur.png)
+- [jlord patchwork](picture.png)
   
 ------------------
 
